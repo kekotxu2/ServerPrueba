@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.204.79.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1763738809917
+  login: 1763738589409
+money: '0'
+last-account-name: Santiagobxx25
+logoutlocation:
+  world: 1c9d43e2-05ce-4bfd-bf47-64c9bb27ffa3
+  world-name: world
+  x: -15.860486774551623
+  y: 64.0
+  z: 122.01531356767207
+  yaw: 64.9505615234375
+  pitch: 7.800020217895508
